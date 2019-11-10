@@ -87,7 +87,7 @@ image::vector/procedure/procedure_7.png[]
 wings pattern and transformed every one of them to make them fit as on the backgroung image. The front windows were created with the 
 "Create Bezier curves" tool and filled with the good color with the help of the "Color picker" tool.
 
-image::vektor.svg[]
+image::vektor/vector.png[]
 
 
 
@@ -101,7 +101,7 @@ circles and rectangles and then reshape, transform and combine them to create pe
 this method on my space shuttle, but there are so many irregular forms and curves, so that I used a lot of the opposite "border" 
 technique that I described before. Here is the result:
 
-image::vector/vector_2.svg[]
+image::vector/vector_2.png[]
 
 
 
@@ -114,7 +114,7 @@ image::vector/vector_2.svg[]
 it obviously looks less cool than the manually created images. I found the image with the white background and not so many different 
 colors to make the result look better. Here is the result:
 
-image::vector/automatic.svg[]
+image::vector/automatic.png[]
 
 
 
@@ -145,11 +145,11 @@ image::vector/automatic.svg[]
 
 == The results of my work:
 
-image::vektor.svg[]
+image::vector/vector.png[]
 
-image::vector/vector_2.svg[]
+image::vector/vector_2.png[]
 
-image::vector/automatic.svg[]
+image::vector/automatic.png[]
 
 
 
