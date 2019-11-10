@@ -145,7 +145,7 @@ image::vector/automatic.png[]
 
 == The results of my work:
 
-image::vector/vector.png[]
+image::vector/vektor.png[]
 
 image::vector/vector_2.png[]
 
