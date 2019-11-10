@@ -87,7 +87,7 @@ image::vector/procedure/procedure_7.png[]
 wings pattern and transformed every one of them to make them fit as on the backgroung image. The front windows were created with the 
 "Create Bezier curves" tool and filled with the good color with the help of the "Color picker" tool.
 
-image::vektor/vector.png[]
+image::vektor/vektor.png[]
 
 
 
